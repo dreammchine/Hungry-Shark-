@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 4177862901
+    locked: 0
+  - name: Set dressing
+    uniqueID: 2636038967
+    locked: 0
+  - name: PlayerInteract
+    uniqueID: 723731491
+    locked: 0
